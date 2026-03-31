@@ -1,0 +1,1 @@
+# plastic-waste-database-Scattered-Data-Interpolation-Using-Cubic-q-B-zier-Triangular-Patch
